@@ -27,6 +27,10 @@ body {
     font-family: 'Roboto';
 }
 
+ul li {
+    color: #bfd7ea;
+}
+
 .container {
     margin: 0px auto;
     background-color: #12355b;
@@ -58,9 +62,9 @@ body {
     font-weight: 100;
 }
 
-    .navbar li {
+    /* .navbar li {
         color: #bfd7ea;
-    }
+    } */
 
     .navbar ul {
         margin-left: 0px;
@@ -86,9 +90,9 @@ body {
         padding-left: 20px;
     }
 
-    .main li {
+    /* .main li {
         color: #bfd7ea;
-    }
+    } */
 
     .main span {
         color: #6c92ff;
