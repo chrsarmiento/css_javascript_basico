@@ -1,0 +1,8 @@
+#Ignorar archivos txt
+*.txt
+
+#No subir la carpeta fonts
+img
+
+#Ignorar arhivos escritos en java
+*.java
